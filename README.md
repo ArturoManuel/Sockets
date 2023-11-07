@@ -1,2 +1,2 @@
 # Sockets
-Elaboración de una conección básica a traves de sockets
+Elaboración de una conexión básica a traves de sockets
